@@ -1,0 +1,99 @@
+.product_conteyner {
+  box-shadow: 1px 1px 1px 2px wheat;
+  width: 30%;
+
+
+}
+
+
+.conteyner {
+   display: flex;
+   justify-content: space-between;
+  
+width: 100%;
+  
+}
+img {
+    width: 390px;
+}
+
+.botton_info {
+margin: 50px;
+font-size: 19px;
+color:dodgerblue;
+border: solid  darkturquoise;
+border-radius: 5px;
+cursor: pointer; 
+
+
+}
+
+hr {
+  width: 38%;
+  margin-left: 0;
+}
+
+.basket_Button {
+    background-color: forestgreen;
+    color: azure;
+    font-size: 17px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none; 
+    padding: 8px;
+
+
+}
+
+.bloc_list_detals {
+
+
+width: 25%;
+height: 90px;
+box-shadow: 5px 5px 5px gray;
+position: absolute ;
+left: 350px;
+top: 310px
+ 
+}
+.delete_list_info {
+  border: none;
+  color: red;
+  border-radius: 5px;
+cursor: pointer;
+ 
+}
+
+.button_info_conteyner {
+  display: flex;
+
+
+}
+
+.delete_button {
+
+  margin-top: 30px;
+  border-radius: 5px;
+  border: none;
+  color:  red;
+  cursor: pointer;
+
+}
+
+.stopClic {
+  background-color: forestgreen;
+  color: azure;
+  font-size: 17px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none; 
+  padding: 8px;
+  opacity: 0.5;
+  cursor: no-drop;
+}
+
+.p {
+  display: flex;
+  justify-content: space-around;
+  
+}
